@@ -5,9 +5,9 @@ Real disaster messages used to build a classification web app
 In this project, a web application is built using data containing real messages
 that were sent during disaster events. Data were multi-labeled with different
 categories of disaster situations such as medical help, search and rescue, water
-and food. Therefore, the trained model in this application can be used to
-predict future, potentially disaster-related, messages into these categories so
-that disaster relief agencies could make appropriate actions accordingly.
+and food. The trained machine learning model in this application can be used to
+predict what categories the future, potentially disaster-related, messages fall into, 
+thereby helping disaster relief agencies provide appropriate actions accordingly.
 
 
 # Files
